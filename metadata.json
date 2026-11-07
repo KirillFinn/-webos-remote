@@ -1,0 +1,6 @@
+{
+  "name": "WebOS Remote",
+  "description": "Smart remote controller for LG webOS TV with navigation pad, pointer touchpad, web browser keyboard, and volume controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
